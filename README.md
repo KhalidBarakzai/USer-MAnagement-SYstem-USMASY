@@ -20,10 +20,4 @@ password in that much time the system should print “login successful” otherw
 print “login failed”. In a real system, after a successful login the user should be provided a
 new user-specific menu. We will not be supporting that behavior in this version of USMASY.
 
-• adduser - the add user command allows a new user to be created by getting a username
-and a password. If the username is already in use the add-user should fail. Otherwise it
-should take a password and add a new user.
-
-• update - The update command should allow a user to update their password.
-
 • exit - the exit command exits the program.

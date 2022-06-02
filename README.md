@@ -1,7 +1,4 @@
-# system_user
-
-
-USer MAnagement SYstem (USMASY)
+# USer MAnagement SYstem (USMASY)
 
 The USer MAnagement SYstem (referred to by it’s acronym USMASY (pronounced “us-mass-
 sea”) is a simplified multi-user program, designed to be part of a larger programming system.
